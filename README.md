@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Zahidul Islam</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEQaR9Zy6xMOg/profile-displaybackgroundimage-shrink_350_1400/B56Zo41OKJIsAY-/0/1761890068168?e=1764201600&v=beta&t=ctr806AYugQYUEEnMJdo4ndXimWccL_-J4NMKGT8HS4">
 <h3 align="center">Professional Creative Full Stack Website Designer & Developer | WordPress & Elementor Specialist | I love to transform ideas into Digital Reality through Modern & Scalable Responsive Websites Design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidbarguna&label=Profile%20views&color=0e75b6&style=flat" alt="zahidbarguna" /> </p>
